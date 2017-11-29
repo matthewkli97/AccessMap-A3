@@ -1,0 +1,12 @@
+{
+    "LEVEL_DIFF": {
+        "target": "TestTarget",
+        "categoryMap": {
+            "UPLIFT": "1",
+            "SETTLING": "2"
+        }
+    },
+    "HEIGHT_DIF": {
+        "target": "displacement"
+    }
+}
