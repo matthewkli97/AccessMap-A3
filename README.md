@@ -80,7 +80,7 @@ Front end implementation
 Let client choose the mapping format they want rather than use our format
 
 ## Conclusion
-	In this project, we tackled both the challenges of importing sidewalk data and mapping data from shapefiles to OSM datasets for future updating. 
+In this project, we tackled both the challenges of importing sidewalk data and mapping data from shapefiles to OSM datasets for future updating. 
 At the beginning, we took a lot of time to set up our machines and learn python, geopandas, and GIS. Matthew helped other three teammates a lot about setting everything up. Also, with the help of weekly meeting with instructors and various tutorials, we were able to make progress every week. Once we started doing prototyping, we met a bunch of other challenges. Since this is a real-world project, we have to deal with huge datasets. We discussed a lot about how to fetch data from OpenStreetMap and which is the most efficient way to find the closest sidewalk to a given node.
 Now, if the users provide the sidewalk datasets (GeoJSON or Shapefile) and a JSON file with mapping schemas in a specific format, by running our Python script, they will get an OSM file with all the new nodes. Therefore, people can easily add these new nodes to OpenStreetMap.
 In the future, we plan to find a generalized way to import outside data into OpenStreetMap, figure out how to edit/update the nodes that already exist and solve the issue of linking and resolving constantly-updating datasets.
