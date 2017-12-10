@@ -28,6 +28,12 @@ json1_file = open(sys.argv[2])
 json1_str = json1_file.read()
 mapping = json.loads(json1_str)
 
+
+if len(sys.argv) > 3:
+    OSM = gpd.read_file(sys.argv[3])
+    sidewalks = OSM[OSM.geometry.type == 'LineString']
+
+
 # Build bounding box around Observation data
 bounds = observations.total_bounds
    
@@ -59,19 +65,21 @@ for x in range(0, 1):
 
         currentPoints = observations[observations.geometry.within(polygon)]
 
-        map_query = overpass.MapQuery(ymin, xmin, ymax, xmax)
-        query = 'way [highway=footway] ('+str(ymin)+','+str(xmin)+','+str(ymax)+','+str(xmax)+');<;>;'
-        response = api.Get(query)
-        OSM = gpd.GeoDataFrame.from_features(response)
+        if len(sys.argv) <= 3:
+            map_query = overpass.MapQuery(ymin, xmin, ymax, xmax)
+            query = 'way [highway=footway] ('+str(ymin)+','+str(xmin)+','+str(ymax)+','+str(xmax)+');<;>;'
+            response = api.Get(query)
+            OSM = gpd.GeoDataFrame.from_features(response)
         
         if(len(OSM.index) > 0):
             
-            sidewalks = OSM[OSM.geometry.type == 'LineString']
+            if len(sys.argv) <= 3:
+                sidewalks = OSM[OSM.geometry.type == 'LineString']
             
             if(len(sidewalks.index) > 0):
         
                 for index, row in currentPoints.iterrows(): 
-                    
+
                     point = row.geometry
 
                     mylist = [x.object for x in sidewalks.sindex.nearest(point.bounds, 10, objects=True)]
@@ -144,4 +152,4 @@ for index, row in pointDataFrame.iterrows():
 xmlString = etree.tostring(root, pretty_print=True)
 
 et = etree.ElementTree(root)
-et.write('output.xml', pretty_print=True)
+et.write('output.osm', pretty_print=True)

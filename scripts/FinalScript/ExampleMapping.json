@@ -1,4 +1,10 @@
 {
+    "COLUMN NAME": {
+        "OSM TAG NAME" : "OSM TAG",
+        "categoryMap": {
+            "IF I SEE THIS" : "GIVE IT THIS VALUE"
+        }
+    },
     "LEVEL_DIFF": {
         "target": "TestTarget",
         "categoryMap": {

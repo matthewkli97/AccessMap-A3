@@ -1,0 +1,3319 @@
+<osm generator="CrappySidewalks">
+  <bounds minlat="47.495615597" minlon="-122.419018602" maxlat="47.7342961775" maxlon="-122.237235893" origin="Overpass API"/>
+  <node lon="-122.33331365283661" lat="47.64744043256973" id="-1">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.3335348" lat="47.6470833" id="-2">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.97"/>
+  </node>
+  <node lon="-122.3335348" lat="47.6470833" id="-3">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.3335348" lat="47.6470833" id="-4">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.99"/>
+  </node>
+  <node lon="-122.3335348" lat="47.6470833" id="-5">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.3333216788984" lat="47.64742698247131" id="-6">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.33299282869362" lat="47.64797807063034" id="-7">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.3329912" lat="47.6479808" id="-8">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.33334024902183" lat="47.647395862602814" id="-9">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.33337384673717" lat="47.64733955945072" id="-10">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.33342251541939" lat="47.647258000327156" id="-11">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.33352025571803" lat="47.64710511642294" id="-12">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.3335348" lat="47.6470833" id="-13">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.3327915" lat="47.6484447" id="-14">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.3333630565768" lat="47.647357641633825" id="-15">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.41"/>
+  </node>
+  <node lon="-122.33268966163256" lat="47.64860859443806" id="-16">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.35"/>
+  </node>
+  <node lon="-122.33268731216398" lat="47.648612375575176" id="-17">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.04"/>
+  </node>
+  <node lon="-122.33270197463327" lat="47.64858877840621" id="-18">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8"/>
+  </node>
+  <node lon="-122.33268832186175" lat="47.64861075060953" id="-19">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.3326771372456" lat="47.64862875066615" id="-20">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.18"/>
+  </node>
+  <node lon="-122.33266154231418" lat="47.648653848500935" id="-21">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.39"/>
+  </node>
+  <node lon="-122.33264445466033" lat="47.64868134866121" id="-22">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.03"/>
+  </node>
+  <node lon="-122.3326139629937" lat="47.64873042068279" id="-23">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.89"/>
+  </node>
+  <node lon="-122.33260008806849" lat="47.64875275041105" id="-24">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.08"/>
+  </node>
+  <node lon="-122.33249166767516" lat="47.64892723768816" id="-25">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.33249437160329" lat="47.64892288609854" id="-26">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3327915" lat="47.6484447" id="-27">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.33273421146752" lat="47.64853689778432" id="-28">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.33259936920476" lat="47.64875390732047" id="-29">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.33178846374128" lat="47.65005886680451" id="-30">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.33196602464916" lat="47.649773133778524" id="-31">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.33257039549812" lat="47.648800536400344" id="-32">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.97"/>
+  </node>
+  <node lon="-122.33234905126368" lat="47.64915675861631" id="-33">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.53"/>
+  </node>
+  <node lon="-122.33200269216577" lat="47.6497141279951" id="-34">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.69"/>
+  </node>
+  <node lon="-122.33190797257136" lat="47.64986655184027" id="-35">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.27"/>
+  </node>
+  <node lon="-122.33184173655455" lat="47.64997313958943" id="-36">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.33180870459985" lat="47.650026294985416" id="-37">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.9"/>
+  </node>
+  <node lon="-122.33148216643414" lat="47.65125452273593" id="-38">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.33148200132422" lat="47.65115231968722" id="-39">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.33148194236493" lat="47.651115823888574" id="-40">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.33148168421292" lat="47.6509560277971" id="-41">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.33178993439348" lat="47.65005650021432" id="-42">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.7"/>
+  </node>
+  <node lon="-122.3317727626694" lat="47.65008413314739" id="-43">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.33185479811857" lat="47.64995212077253" id="-44">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.94"/>
+  </node>
+  <node lon="-122.33168483960551" lat="47.65022561993857" id="-45">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.92"/>
+  </node>
+  <node lon="-122.32999700092459" lat="47.65176373765701" id="-46">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.3299861601497" lat="47.65177110331386" id="-47">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.32993285097297" lat="47.65180732370464" id="-48">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.19"/>
+  </node>
+  <node lon="-122.3299305343632" lat="47.65180889770213" id="-49">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.76"/>
+  </node>
+  <node lon="-122.32992048651498" lat="47.65181572461284" id="-50">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8100000000000001"/>
+  </node>
+  <node lon="-122.32986385264437" lat="47.651854203933844" id="-51">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.32980141912782" lat="47.651896623766696" id="-52">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.32836336596081" lat="47.65310304239542" id="-53">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.11"/>
+  </node>
+  <node lon="-122.32841216403503" lat="47.65312659740148" id="-54">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.99"/>
+  </node>
+  <node lon="-122.32907167687866" lat="47.65345922581617" id="-55">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8100000000000001"/>
+  </node>
+  <node lon="-122.32914622037472" lat="47.652439880466474" id="-56">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.32917362884793" lat="47.6524166417265" id="-57">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8100000000000001"/>
+  </node>
+  <node lon="-122.32934284881057" lat="47.652273165704216" id="-58">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.33"/>
+  </node>
+  <node lon="-122.32930408388187" lat="47.65230603320807" id="-59">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.77"/>
+  </node>
+  <node lon="-122.32913886011083" lat="47.65244612099135" id="-60">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.32884912004724" lat="47.65270882763991" id="-61">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.11"/>
+  </node>
+  <node lon="-122.32887564666669" lat="47.65268446722762" id="-62">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.15"/>
+  </node>
+  <node lon="-122.32838246134722" lat="47.69075829721786" id="-63">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3283759" lat="47.6907399" id="-64">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.2"/>
+  </node>
+  <node lon="-122.32813546423512" lat="47.690229826255255" id="-65">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.97"/>
+  </node>
+  <node lon="-122.32811116860832" lat="47.69018826975237" id="-66">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.32809747533952" lat="47.690164848073664" id="-67">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.3278602" lat="47.689759" id="-68">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.66"/>
+  </node>
+  <node lon="-122.3278602" lat="47.689759" id="-69">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.32780059117479" lat="47.689674809477104" id="-70">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.3278602" lat="47.689759" id="-71">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.32768687958992" lat="47.689514205107606" id="-72">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.28"/>
+  </node>
+  <node lon="-122.32758416823829" lat="47.68936913728636" id="-73">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.32764744212132" lat="47.68945850427655" id="-74">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.32804830636395" lat="47.69008074690219" id="-75">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.3278602" lat="47.689759" id="-76">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.3280310900831" lat="47.69005129928056" id="-77">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.32797740629731" lat="47.68995947574299" id="-78">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.49"/>
+  </node>
+  <node lon="-122.32693057348192" lat="47.688615666133295" id="-79">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="3.89"/>
+  </node>
+  <node lon="-122.32695110602924" lat="47.68863656937374" id="-80">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.11"/>
+  </node>
+  <node lon="-122.32698159776245" lat="47.68866761160248" id="-81">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.32701650713034" lat="47.68870315122156" id="-82">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.67"/>
+  </node>
+  <node lon="-122.327147" lat="47.688836" id="-83">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.92"/>
+  </node>
+  <node lon="-122.32713766368947" lat="47.68882649513241" id="-84">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.78"/>
+  </node>
+  <node lon="-122.32711881010874" lat="47.6888073011705" id="-85">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.08"/>
+  </node>
+  <node lon="-122.32710925848576" lat="47.68879757710321" id="-86">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.32709999656785" lat="47.68878814797131" id="-87">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.53"/>
+  </node>
+  <node lon="-122.32684923662201" lat="47.68853286082363" id="-88">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.85"/>
+  </node>
+  <node lon="-122.32705889500141" lat="47.68874630436018" id="-89">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.327147" lat="47.688836" id="-90">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.41"/>
+  </node>
+  <node lon="-122.32689388355095" lat="47.68857831380498" id="-91">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.3266287569218" lat="47.688321212755305" id="-92">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.21"/>
+  </node>
+  <node lon="-122.32664574366875" lat="47.68833613393692" id="-93">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.54"/>
+  </node>
+  <node lon="-122.3267205" lat="47.6884018" id="-94">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.25"/>
+  </node>
+  <node lon="-122.3267205" lat="47.6884018" id="-95">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.75"/>
+  </node>
+  <node lon="-122.3267205" lat="47.6884018" id="-96">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.3267205" lat="47.6884018" id="-97">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.3263782145504" lat="47.68810113599538" id="-98">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.32877296723896" lat="47.69602203830011" id="-99">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-100">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-101">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-102">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-103">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.51"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-104">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.04"/>
+  </node>
+  <node lon="-122.32826360618733" lat="47.66250537839692" id="-105">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.33151283102752" lat="47.66028884977196" id="-106">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.95"/>
+  </node>
+  <node lon="-122.33148775702767" lat="47.66028872571611" id="-107">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.33124748535026" lat="47.66028753761712" id="-108">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.33115150189258" lat="47.66028706320781" id="-109">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.82"/>
+  </node>
+  <node lon="-122.33109525012863" lat="47.66028678517698" id="-110">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.33138088699472" lat="47.660104219826266" id="-111">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.32826215254194" lat="47.662274027971" id="-112">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.33102608196317" lat="47.66028644330534" id="-113">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.33138078348532" lat="47.66007315373177" id="-114">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.3310154554658" lat="47.660286390782645" id="-115">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.53"/>
+  </node>
+  <node lon="-122.331380692829" lat="47.660045945217114" id="-116">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.33138055560663" lat="47.6600047609104" id="-117">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.24"/>
+  </node>
+  <node lon="-122.33050120913389" lat="47.66028384906081" id="-118">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.32826029359403" lat="47.66197817288185" id="-119">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.73"/>
+  </node>
+  <node lon="-122.33044660057855" lat="47.660283579151724" id="-120">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.15"/>
+  </node>
+  <node lon="-122.33137947451384" lat="47.65968029447232" id="-121">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.32826015944218" lat="47.66195682236023" id="-122">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.33039835108995" lat="47.660283340673054" id="-123">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.48"/>
+  </node>
+  <node lon="-122.33018638878995" lat="47.66036987612674" id="-124">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.33018406817337" lat="47.66051388772461" id="-125">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.3282579810164" lat="47.66161012176273" id="-126">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.07"/>
+  </node>
+  <node lon="-122.33138089566076" lat="47.66010682074428" id="-127">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.32825778074806" lat="47.6615782486759" id="-128">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.33096032427582" lat="47.66028611829038" id="-129">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.32825734837576" lat="47.66150943580208" id="-130">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.13"/>
+  </node>
+  <node lon="-122.33017812278781" lat="47.66088284331713" id="-131">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.33085190282792" lat="47.66028558240486" id="-132">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.38"/>
+  </node>
+  <node lon="-122.33081695129984" lat="47.6602854096529" id="-133">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.33017867538263" lat="47.66084855068038" id="-134">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.33017982302366" lat="47.660777330980075" id="-135">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.33018123050627" lat="47.66068998616834" id="-136">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.39"/>
+  </node>
+  <node lon="-122.33018338241304" lat="47.66055644427619" id="-137">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.33018839238241" lat="47.660112936425456" id="-138">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.33018846913487" lat="47.66009099271049" id="-139">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.11"/>
+  </node>
+  <node lon="-122.33018903411768" lat="47.65992946274531" id="-140">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.69"/>
+  </node>
+  <node lon="-122.32929357608853" lat="47.66027788500328" id="-141">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.3291489359805" lat="47.660277170880576" id="-142">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.33018911937341" lat="47.659905087924066" id="-143">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.98"/>
+  </node>
+  <node lon="-122.33018938567554" lat="47.65982895149724" id="-144">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.56"/>
+  </node>
+  <node lon="-122.32899080457057" lat="47.66045803438373" id="-145">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.3301903085618" lat="47.659565096065926" id="-146">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.32898851930412" lat="47.66066605124208" id="-147">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.33019143726222" lat="47.65924239786123" id="-148">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.32825790555674" lat="47.661598112214136" id="-149">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.28"/>
+  </node>
+  <node lon="-122.32825828220163" lat="47.66165805596314" id="-150">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.33019153887766" lat="47.6592133457594" id="-151">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.32825956118836" lat="47.661861609128664" id="-152">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.49"/>
+  </node>
+  <node lon="-122.33019142646131" lat="47.65924548586699" id="-153">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.32898246654479" lat="47.661217004931906" id="-154">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.328983908222" lat="47.66108577596017" id="-155">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.03"/>
+  </node>
+  <node lon="-122.328261379567" lat="47.66215100754204" id="-156">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.33018976480295" lat="47.65972055804598" id="-157">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.32898800353028" lat="47.6607129996628" id="-158">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.32898843836973" lat="47.660673418310644" id="-159">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.32898928950583" lat="47.66059594347" id="-160">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.01"/>
+  </node>
+  <node lon="-122.32934464013512" lat="47.66027813711866" id="-161">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.32898968920784" lat="47.66055956050985" id="-162">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.49"/>
+  </node>
+  <node lon="-122.32899043986345" lat="47.66049123192521" id="-163">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.32899139600644" lat="47.66040419880864" id="-164">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.32899169636802" lat="47.660376858332626" id="-165">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.15"/>
+  </node>
+  <node lon="-122.32881359548283" lat="47.66027552340853" id="-166">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.32867779530737" lat="47.660274859132436" id="-167">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.89"/>
+  </node>
+  <node lon="-122.32856877359869" lat="47.660274325845094" id="-168">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.28"/>
+  </node>
+  <node lon="-122.32899703178518" lat="47.659680585040846" id="-169">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.32899552224268" lat="47.65989312134914" id="-170">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.92"/>
+  </node>
+  <node lon="-122.32883944343858" lat="47.660275649845616" id="-171">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.32828913882703" lat="47.660441297161405" id="-172">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.32880085847486" lat="47.66027546110456" id="-173">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.32828780856234" lat="47.6605526032434" id="-174">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.95"/>
+  </node>
+  <node lon="-122.32828710467602" lat="47.66061149891053" id="-175">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.54"/>
+  </node>
+  <node lon="-122.32828691478568" lat="47.66062738744107" id="-176">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.32829055272848" lat="47.66001500862794" id="-177">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.32828071136687" lat="47.661146440712564" id="-178">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.3281744" lat="47.6608845" id="-179">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3281744" lat="47.6608845" id="-180">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.32621620376135" lat="47.65921859137227" id="-181">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.32864684112863" lat="47.661359092802265" id="-182">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.38"/>
+  </node>
+  <node lon="-122.32621591646624" lat="47.6592339809742" id="-183">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.32828787335579" lat="47.6605471818361" id="-184">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.15"/>
+  </node>
+  <node lon="-122.32828863693328" lat="47.660483291680286" id="-185">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.32820425671409" lat="47.66135840519402" id="-186">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.32971494200694" lat="47.65910915428025" id="-187">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.32985107628777" lat="47.659109424209426" id="-188">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.33011531629293" lat="47.65910994814863" id="-189">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.33013278158215" lat="47.65910998277908" id="-190">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.27"/>
+  </node>
+  <node lon="-122.33029575211607" lat="47.65911076566255" id="-191">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.33089635893829" lat="47.659114615381576" id="-192">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.4"/>
+  </node>
+  <node lon="-122.33153284103358" lat="47.659119078648594" id="-193">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.3315979534949" lat="47.659119656892635" id="-194">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.2"/>
+  </node>
+  <node lon="-122.33172904630752" lat="47.65912082108819" id="-195">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.2"/>
+  </node>
+  <node lon="-122.33174104578441" lat="47.659120927651905" id="-196">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.33179005903693" lat="47.659121362923756" id="-197">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.33200716005912" lat="47.659123290932165" id="-198">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.9399999999999999"/>
+  </node>
+  <node lon="-122.3328702565157" lat="47.659130934100034" id="-199">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.21"/>
+  </node>
+  <node lon="-122.33285124113978" lat="47.65913076661195" id="-200">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.33210123208475" lat="47.65912412635732" id="-201">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.01"/>
+  </node>
+  <node lon="-122.33218374713287" lat="47.65912485914846" id="-202">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.93"/>
+  </node>
+  <node lon="-122.33217039211614" lat="47.65912474054661" id="-203">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-204">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.49"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-205">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-206">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-207">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-208">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-209">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.15"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-210">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-211">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.03"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-212">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-213">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.26"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-214">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-215">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-216">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-217">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.2"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-218">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.54"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-219">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-220">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.85"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-221">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.96"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-222">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-223">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.12"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-224">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.12"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-225">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.41"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-226">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-227">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-228">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-229">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-230">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.93"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-231">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.91"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-232">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.77"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-233">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-234">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.35"/>
+  </node>
+  <node lon="-122.33181382538815" lat="47.6648474" id="-235">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.8"/>
+  </node>
+  <node lon="-122.33188570676357" lat="47.6648474" id="-236">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.53"/>
+  </node>
+  <node lon="-122.3317315" lat="47.6648474" id="-237">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.61"/>
+  </node>
+  <node lon="-122.3317315" lat="47.6648474" id="-238">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.4"/>
+  </node>
+  <node lon="-122.3317315" lat="47.6648474" id="-239">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-240">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-241">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-242">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.98"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-243">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-244">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.35"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-245">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.62"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-246">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-247">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.1"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-248">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.17"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-249">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-250">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-251">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.22"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-252">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.3322954660083" lat="47.66483526790719" id="-253">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-254">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.98"/>
+  </node>
+  <node lon="-122.33212467929893" lat="47.6648474" id="-255">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.73"/>
+  </node>
+  <node lon="-122.33203340688083" lat="47.6648474" id="-256">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.33270024485134" lat="47.664849500016054" id="-257">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.36"/>
+  </node>
+  <node lon="-122.33272096921264" lat="47.664852828418354" id="-258">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.76"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-259">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-260">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.01"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-261">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.75"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-262">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.33312234913888" lat="47.66483386866751" id="-263">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-264">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-265">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.32963690418345" lat="47.6649149872338" id="-266">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.91"/>
+  </node>
+  <node lon="-122.3331379861066" lat="47.66483232121192" id="-267">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-268">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="3.31"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-269">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-270">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.32"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-271">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-272">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.33057410550553" lat="47.66498344277628" id="-273">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.9399999999999999"/>
+  </node>
+  <node lon="-122.33055498982459" lat="47.66495309545142" id="-274">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-275">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.24"/>
+  </node>
+  <node lon="-122.33056115725128" lat="47.66496288662243" id="-276">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.33088526420238" lat="47.6647516" id="-277">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-278">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.24"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-279">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-280">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.98"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-281">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.48"/>
+  </node>
+  <node lon="-122.33111076445724" lat="47.6647516" id="-282">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.95"/>
+  </node>
+  <node lon="-122.33144543696294" lat="47.664801258759205" id="-283">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.33217344591503" lat="47.664844430472456" id="-284">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.33225876085127" lat="47.664838024120435" id="-285">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-286">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-287">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-288">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.73"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-289">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-290">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-291">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.11"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-292">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.16"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-293">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.33207986392964" lat="47.6648474" id="-294">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.41"/>
+  </node>
+  <node lon="-122.3311053895325" lat="47.6647516" id="-295">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-296">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.33108591903681" lat="47.6647516" id="-297">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.33223500429591" lat="47.66483980801507" id="-298">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-299">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-300">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-301">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-302">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.53"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-303">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-304">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.25"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-305">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-306">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.72"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-307">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.72"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-308">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-309">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-310">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-311">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-312">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.69"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-313">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.29"/>
+  </node>
+  <node lon="-122.3329332" lat="47.6648492" id="-314">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.56"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-315">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.7"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-316">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.73"/>
+  </node>
+  <node lon="-122.33294635925402" lat="47.66484813338717" id="-317">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.61"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-318">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-319">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-320">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.12"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-321">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-322">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.58"/>
+  </node>
+  <node lon="-122.3330579643057" lat="47.66483908732878" id="-323">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.8100000000000001"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-324">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.4"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-325">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.38"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-326">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.96"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-327">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.12"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-328">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-329">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-330">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.82"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-331">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-332">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-333">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-334">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.92"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-335">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-336">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-337">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-338">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.98"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-339">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.02"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-340">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.28"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-341">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="3.17"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-342">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.11"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-343">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-344">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-345">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.53"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-346">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-347">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-348">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-349">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.82"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-350">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.96"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-351">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-352">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.99"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-353">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.23"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-354">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.03"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-355">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.32836955082665" lat="47.662616023241284" id="-356">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.32839425907817" lat="47.662616075648494" id="-357">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.06"/>
+  </node>
+  <node lon="-122.32842663547721" lat="47.662616144320154" id="-358">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.32880938573881" lat="47.66261695614905" id="-359">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.2"/>
+  </node>
+  <node lon="-122.32883503848666" lat="47.66261701055957" id="-360">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.89"/>
+  </node>
+  <node lon="-122.32885300795613" lat="47.66261704867355" id="-361">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.31"/>
+  </node>
+  <node lon="-122.32887185751532" lat="47.66261708865423" id="-362">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.32924244912557" lat="47.66261757352482" id="-363">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.7"/>
+  </node>
+  <node lon="-122.32929923206426" lat="47.66261763084755" id="-364">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-365">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-366">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.11"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-367">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-368">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.92"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-369">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-370">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-371">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-372">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-373">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.02"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-374">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.19"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-375">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-376">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.93"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-377">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-378">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.22"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-379">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.05"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-380">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.91"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-381">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-382">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-383">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.84"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-384">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-385">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="3.54"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-386">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.47"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-387">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-388">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-389">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-390">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-391">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.12"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-392">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.54"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-393">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-394">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-395">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8100000000000001"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-396">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.29"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-397">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-398">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.04"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-399">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-400">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-401">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-402">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-403">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-404">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.99"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-405">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.328265" lat="47.6649925" id="-406">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-407">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-408">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-409">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.48"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-410">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.21"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-411">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.78"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-412">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.98"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-413">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-414">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.97"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-415">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-416">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.53"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-417">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-418">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.33"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-419">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.63"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-420">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.85"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-421">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.84"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-422">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.13"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-423">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.4"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-424">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-425">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.26"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-426">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.56"/>
+  </node>
+  <node lon="-122.3305897" lat="47.6650082" id="-427">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-428">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.93"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-429">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.32"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-430">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.73"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-431">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.97"/>
+  </node>
+  <node lon="-122.33276548689885" lat="47.66485370124625" id="-432">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-433">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.41"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-434">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.3"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-435">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.5"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-436">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.89"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-437">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.33"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-438">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.23"/>
+  </node>
+  <node lon="-122.332732" lat="47.6648546" id="-439">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.33325081431809" lat="47.664814605060045" id="-440">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.41"/>
+  </node>
+  <node lon="-122.33325176162045" lat="47.66481445631575" id="-441">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.5"/>
+  </node>
+  <node lon="-122.33326012907276" lat="47.66481314246832" id="-442">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-443">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.33327013196816" lat="47.66481157182555" id="-444">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-445">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.01"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-446">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.32863247564677" lat="47.696770176911926" id="-447">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.67"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-448">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-449">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-450">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.25"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-451">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-452">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.84"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-453">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-454">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.54"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-455">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-456">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-457">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-458">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-459">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.45"/>
+  </node>
+  <node lon="-122.33055560468031" lat="47.66495407157288" id="-460">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.85"/>
+  </node>
+  <node lon="-122.33053691374643" lat="47.664924398560224" id="-461">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.33045162445131" lat="47.664788996533304" id="-462">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.33015134869619" lat="47.66395562538696" id="-463">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.33015166278152" lat="47.66393373663105" id="-464">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.33015197970857" lat="47.66391164983271" id="-465">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.84"/>
+  </node>
+  <node lon="-122.33022528488003" lat="47.66380537444498" id="-466">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.330227591672" lat="47.66380536398334" id="-467">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.33022446094775" lat="47.66380537818164" id="-468">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.33015414511136" lat="47.66366690889712" id="-469">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8100000000000001"/>
+  </node>
+  <node lon="-122.33015421178618" lat="47.66365256428744" id="-470">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.33015626932273" lat="47.66320989999566" id="-471">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.33014987085222" lat="47.664058617036545" id="-472">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.3301602" lat="47.6643021" id="-473">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.84"/>
+  </node>
+  <node lon="-122.33018290539464" lat="47.664360231383775" id="-474">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.33029079310393" lat="47.66453366682984" id="-475">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.1"/>
+  </node>
+  <node lon="-122.33033000951565" lat="47.66459592530704" id="-476">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.3304945375056" lat="47.66485712365903" id="-477">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.98"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-478">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-479">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-480">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.49"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-481">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.98"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-482">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.49"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-483">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-484">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-485">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-486">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.1"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-487">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.84"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-488">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.7"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-489">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.79"/>
+  </node>
+  <node lon="-122.3332725" lat="47.6648112" id="-490">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-491">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8"/>
+  </node>
+  <node lon="-122.32970524741913" lat="47.662618040722556" id="-492">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.32945560851242" lat="47.662617788710534" id="-493">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.32914732155689" lat="47.66261747749295" id="-494">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.32904058847274" lat="47.66261736974524" id="-495">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.32897102140826" lat="47.66266789398318" id="-496">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.98"/>
+  </node>
+  <node lon="-122.32897083114408" lat="47.662688007625285" id="-497">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.32896871450922" lat="47.66291176616833" id="-498">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.32896847728996" lat="47.662936843631954" id="-499">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.32896836310071" lat="47.6629489150674" id="-500">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.49"/>
+  </node>
+  <node lon="-122.32904089241909" lat="47.66320873290669" id="-501">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.46"/>
+  </node>
+  <node lon="-122.329056602837" lat="47.66454008738833" id="-502">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.84"/>
+  </node>
+  <node lon="-122.33266576758174" lat="47.6591291329545" id="-503">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.15"/>
+  </node>
+  <node lon="-122.33266456200619" lat="47.65912912233575" id="-504">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.33266223838024" lat="47.65912910186917" id="-505">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.82"/>
+  </node>
+  <node lon="-122.33107940241814" lat="47.65794654118216" id="-506">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.33099659535914" lat="47.65794604392543" id="-507">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.33098340303691" lat="47.657945964705476" id="-508">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.8100000000000001"/>
+  </node>
+  <node lon="-122.33064712788811" lat="47.657943945371805" id="-509">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.33059401335379" lat="47.657943626418806" id="-510">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.33052631765266" lat="47.65794321990584" id="-511">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.33135439275917" lat="47.662742296616486" id="-512">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.13"/>
+  </node>
+  <node lon="-122.330482914202" lat="47.657942959267935" id="-513">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.82"/>
+  </node>
+  <node lon="-122.3296876266334" lat="47.65793933733074" id="-514">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.33135528693371" lat="47.66313170963266" id="-515">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.07"/>
+  </node>
+  <node lon="-122.331242100804" lat="47.655575119392466" id="-516">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.3289024248751" lat="47.657933836381375" id="-517">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.32885383802336" lat="47.65793257632676" id="-518">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.34"/>
+  </node>
+  <node lon="-122.32877358715892" lat="47.65793049509555" id="-519">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.73"/>
+  </node>
+  <node lon="-122.33142607002233" lat="47.662615287560484" id="-520">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.3304440465092" lat="47.6555694626795" id="-521">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.3315349999158" lat="47.6626160255054" id="-522">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-523">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.33245493008154" lat="47.66262225756682" id="-524">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-525">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.24"/>
+  </node>
+  <node lon="-122.3325459" lat="47.6631715" id="-526">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.3325459" lat="47.6631715" id="-527">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.33262224359484" lat="47.662623389384194" id="-528">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.33262756630148" lat="47.66262342534235" id="-529">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.4"/>
+  </node>
+  <node lon="-122.33245514937958" lat="47.66262225905245" id="-530">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.33214557565218" lat="47.66262016184708" id="-531">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-532">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.79"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-533">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.33136221297208" lat="47.662060707522606" id="-534">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.33135763416443" lat="47.662373426813026" id="-535">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.32840603196202" lat="47.661358727184485" id="-536">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.46"/>
+  </node>
+  <node lon="-122.33470064343226" lat="47.660304595881684" id="-537">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.32842927145174" lat="47.66135876246873" id="-538">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.95"/>
+  </node>
+  <node lon="-122.33135748774838" lat="47.66238342660578" id="-539">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.32907595038127" lat="47.66135973738251" id="-540">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.32918487657518" lat="47.66135989482064" id="-541">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.53"/>
+  </node>
+  <node lon="-122.33135733350703" lat="47.66239396084221" id="-542">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.32943084105821" lat="47.661360250329146" id="-543">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.32869281045016" lat="47.66135916259695" id="-544">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.12"/>
+  </node>
+  <node lon="-122.33135681900929" lat="47.6624290995465" id="-545">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.33124720693999" lat="47.6626151312709" id="-546">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-547">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.13"/>
+  </node>
+  <node lon="-122.3312164818274" lat="47.66261522649069" id="-548">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.84"/>
+  </node>
+  <node lon="-122.3311784715272" lat="47.66261534428792" id="-549">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.33101441514695" lat="47.66261585271292" id="-550">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.33042637107908" lat="47.662617675112664" id="-551">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.53"/>
+  </node>
+  <node lon="-122.33156693869664" lat="47.66136339627141" id="-552">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.33041382398808" lat="47.66261771399719" id="-553">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.9399999999999999"/>
+  </node>
+  <node lon="-122.33183097830988" lat="47.66146594301447" id="-554">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.08"/>
+  </node>
+  <node lon="-122.3319417962494" lat="47.66136395299492" id="-555">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.96"/>
+  </node>
+  <node lon="-122.3303274013139" lat="47.662617981828575" id="-556">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.1"/>
+  </node>
+  <node lon="-122.33335508640906" lat="47.661366036969305" id="-557">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.33031925142319" lat="47.6626180070858" id="-558">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.63"/>
+  </node>
+  <node lon="-122.3303164179537" lat="47.66261801586697" id="-559">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.73"/>
+  </node>
+  <node lon="-122.3301616047767" lat="47.66244546456319" id="-560">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.43"/>
+  </node>
+  <node lon="-122.3301688488402" lat="47.66155316638884" id="-561">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.13"/>
+  </node>
+  <node lon="-122.33016728037231" lat="47.66174636472908" id="-562">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.52"/>
+  </node>
+  <node lon="-122.3301671907903" lat="47.66175739912305" id="-563">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.3301668930339" lat="47.66179407570586" id="-564">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.33016659650593" lat="47.66183060097505" id="-565">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.99"/>
+  </node>
+  <node lon="-122.33016605459649" lat="47.661897351466976" id="-566">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.33016538504847" lat="47.661979824029636" id="-567">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.8"/>
+  </node>
+  <node lon="-122.33016503635125" lat="47.6620227753232" id="-568">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.4"/>
+  </node>
+  <node lon="-122.33016391661779" lat="47.66216070013821" id="-569">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.33016179715283" lat="47.66242176835205" id="-570">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.32897873370138" lat="47.6616494461468" id="-571">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.32897663205493" lat="47.66193064196969" id="-572">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.83"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-573">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.32897638333226" lat="47.66196392053395" id="-574">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-575">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.84"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-576">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-577">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.32897562788649" lat="47.662064997570006" id="-578">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-579">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.85"/>
+  </node>
+  <node lon="-122.32897495382761" lat="47.66215518521392" id="-580">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.4"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-581">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.65"/>
+  </node>
+  <node lon="-122.3350063" lat="47.6603061" id="-582">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.3288778620958" lat="47.66261710139019" id="-583">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.33405418064815" lat="47.660301414675665" id="-584">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.3338326267038" lat="47.6603003244215" id="-585">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.33366596687092" lat="47.66029950169744" id="-586">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.33366385751074" lat="47.66029949126295" id="-587">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.33363973073926" lat="47.66029937191361" id="-588">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.37"/>
+  </node>
+  <node lon="-122.33361477019764" lat="47.66029924843981" id="-589">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.01"/>
+  </node>
+  <node lon="-122.33358460266895" lat="47.66029909920831" id="-590">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.33264978899474" lat="47.660294474909925" id="-591">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.91"/>
+  </node>
+  <node lon="-122.33264941079334" lat="47.66029447303906" id="-592">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.54"/>
+  </node>
+  <node lon="-122.33264986726203" lat="47.6602944752971" id="-593">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.33265154241091" lat="47.660294483583655" id="-594">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.52"/>
+  </node>
+  <node lon="-122.33266165549678" lat="47.659129096735114" id="-595">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.19"/>
+  </node>
+  <node lon="-122.33266287437634" lat="47.659129107471045" id="-596">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.33266305429495" lat="47.659129109055776" id="-597">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.33266305618027" lat="47.65912910907238" id="-598">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.33266295497225" lat="47.659129108180935" id="-599">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8100000000000001"/>
+  </node>
+  <node lon="-122.33249628000938" lat="47.65912763465826" id="-600">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.33249620842594" lat="47.659127634022546" id="-601">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.25"/>
+  </node>
+  <node lon="-122.33248366751097" lat="47.66029365307196" id="-602">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.55"/>
+  </node>
+  <node lon="-122.33489370088678" lat="47.66030554590627" id="-603">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.33447988682623" lat="47.66030350955118" id="-604">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.33445091140908" lat="47.660303366964825" id="-605">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.11"/>
+  </node>
+  <node lon="-122.33422341755522" lat="47.66030224748071" id="-606">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.33414621894198" lat="47.66030186759079" id="-607">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.33388099172643" lat="47.66030056242298" id="-608">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.85"/>
+  </node>
+  <node lon="-122.333834486523" lat="47.660300333573566" id="-609">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.33382310557242" lat="47.66030027756857" id="-610">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.33350668808737" lat="47.66029871378361" id="-611">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.45"/>
+  </node>
+  <node lon="-122.33340869897481" lat="47.660298229055044" id="-612">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.33325865404912" lat="47.66029748681889" id="-613">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.38"/>
+  </node>
+  <node lon="-122.33318812893562" lat="47.66029713794812" id="-614">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.54"/>
+  </node>
+  <node lon="-122.33264043825646" lat="47.66136493868038" id="-615">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.33319298654847" lat="47.65913377671721" id="-616">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.41"/>
+  </node>
+  <node lon="-122.33315446102775" lat="47.659133437383105" id="-617">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.33301788256597" lat="47.65913223439534" id="-618">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.1"/>
+  </node>
+  <node lon="-122.33252012901583" lat="47.66029383346851" id="-619">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.33245891819938" lat="47.659127302859346" id="-620">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.99"/>
+  </node>
+  <node lon="-122.33212683269434" lat="47.65912435370858" id="-621">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.332160769387" lat="47.660292055504726" id="-622">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.93"/>
+  </node>
+  <node lon="-122.33200928762408" lat="47.660291306035205" id="-623">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.04"/>
+  </node>
+  <node lon="-122.3316799508866" lat="47.65912038508663" id="-624">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.33157103223812" lat="47.66028913772763" id="-625">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.01"/>
+  </node>
+  <node lon="-122.33159190328708" lat="47.65911960316257" id="-626">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.3315475576956" lat="47.66028902158524" id="-627">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.33138071790853" lat="47.660381607791656" id="-628">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.45"/>
+  </node>
+  <node lon="-122.33072776125155" lat="47.65911353471832" id="-629">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.33137698694135" lat="47.66082720963808" id="-630">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.33137504624081" lat="47.66105899397354" id="-631">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.33137386644358" lat="47.66119990108787" id="-632">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.33137357288516" lat="47.661234961749884" id="-633">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.33137471574256" lat="47.6610984664804" id="-634">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.33199831830875" lat="47.66029125176354" id="-635">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.89"/>
+  </node>
+  <node lon="-122.33137569557609" lat="47.66098144169655" id="-636">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.33198504193862" lat="47.660291186077515" id="-637">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.32889843995105" lat="47.6591073685344" id="-638">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.8"/>
+  </node>
+  <node lon="-122.33196052195555" lat="47.66029106476272" id="-639">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.32876674587783" lat="47.65910681504292" id="-640">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.12"/>
+  </node>
+  <node lon="-122.33184148102502" lat="47.660290475797105" id="-641">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.33182618874207" lat="47.66029040013717" id="-642">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.33138064443274" lat="47.660390383250174" id="-643">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.3313920662045" lat="47.658513632631966" id="-644">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.33139046106827" lat="47.65858065853494" id="-645">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.45"/>
+  </node>
+  <node lon="-122.33138941901858" lat="47.6586241715529" id="-646">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.87"/>
+  </node>
+  <node lon="-122.33138888474576" lat="47.658646481258856" id="-647">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.22"/>
+  </node>
+  <node lon="-122.33138674617861" lat="47.658735781713176" id="-648">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.33138093506591" lat="47.65897843717648" id="-649">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.33131997564548" lat="47.657947985825395" id="-650">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.93"/>
+  </node>
+  <node lon="-122.33138393054433" lat="47.65885335455594" id="-651">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.33139050133259" lat="47.65857897721161" id="-652">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.71"/>
+  </node>
+  <node lon="-122.33015228349286" lat="47.65556738836289" id="-653">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.3301533342549" lat="47.65556739560714" id="-654">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.41"/>
+  </node>
+  <node lon="-122.3301602795597" lat="47.65556744349007" id="-655">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.33020011453041" lat="47.65845696101052" id="-656">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.9399999999999999"/>
+  </node>
+  <node lon="-122.33006412431608" lat="47.655566780568165" id="-657">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.79"/>
+  </node>
+  <node lon="-122.33019724048417" lat="47.65868547701447" id="-658">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.1"/>
+  </node>
+  <node lon="-122.3301939275695" lat="47.65894888753546" id="-659">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.89"/>
+  </node>
+  <node lon="-122.33031872035362" lat="47.655568559871575" id="-660">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.47"/>
+  </node>
+  <node lon="-122.32943139767717" lat="47.6555623109932" id="-661">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.91"/>
+  </node>
+  <node lon="-122.32914617287477" lat="47.65556029162188" id="-662">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.33031602356368" lat="47.6555685404448" id="-663">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.32912077685741" lat="47.65556011086731" id="-664">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.73"/>
+  </node>
+  <node lon="-122.33032547589201" lat="47.65556860853622" id="-665">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.7"/>
+  </node>
+  <node lon="-122.33031943002887" lat="47.65556856498384" id="-666">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.33032431238989" lat="47.655568600154744" id="-667">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.94"/>
+  </node>
+  <node lon="-122.33019629597784" lat="47.65876057490486" id="-668">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.32912644778756" lat="47.6555601512298" id="-669">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.33019628627926" lat="47.65876134604056" id="-670">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.3303109723602" lat="47.655568504057605" id="-671">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.07"/>
+  </node>
+  <node lon="-122.33019675009798" lat="47.65872446772" id="-672">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.3291303148655" lat="47.65556017875349" id="-673">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.48"/>
+  </node>
+  <node lon="-122.33019701292" lat="47.65870357068734" id="-674">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.04"/>
+  </node>
+  <node lon="-122.33031376209762" lat="47.65556852415395" id="-675">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.33028690866423" lat="47.657941782253864" id="-676">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.33013081941968" lat="47.65556724038339" id="-677">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.33015224123548" lat="47.65556738807155" id="-678">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.33015025520032" lat="47.65556737437925" id="-679">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.62"/>
+  </node>
+  <node lon="-122.33017319702591" lat="47.6555675325468" id="-680">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.17"/>
+  </node>
+  <node lon="-122.32912712311088" lat="47.65556015603637" id="-681">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.329132382976" lat="47.655560193473136" id="-682">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2"/>
+  </node>
+  <node lon="-122.32896407424822" lat="47.65555899991898" id="-683">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.04"/>
+  </node>
+  <node lon="-122.32896590859944" lat="47.65555901288041" id="-684">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.67"/>
+  </node>
+  <node lon="-122.3290560818673" lat="47.66487906501624" id="-685">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.13"/>
+  </node>
+  <node lon="-122.32905646667972" lat="47.66462868040137" id="-686">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.55"/>
+  </node>
+  <node lon="-122.32905647766583" lat="47.66462153209865" id="-687">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.91"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-688">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.73"/>
+  </node>
+  <node lon="-122.32905650143393" lat="47.66460606699424" id="-689">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.21"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-690">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.9"/>
+  </node>
+  <node lon="-122.32905652637226" lat="47.66458984044869" id="-691">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.32905688503075" lat="47.66435647332659" id="-692">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.14"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-693">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-694">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-695">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.32905690391597" lat="47.664344185339196" id="-696">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.82"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-697">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-698">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.33"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-699">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.42"/>
+  </node>
+  <node lon="-122.32905709475818" lat="47.66422001067229" id="-700">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-701">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.61"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-702">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-703">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.67"/>
+  </node>
+  <node lon="-122.32907155926918" lat="47.66384154880237" id="-704">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="5.38"/>
+  </node>
+  <node lon="-122.32907225817002" lat="47.663823420390315" id="-705">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="5.5"/>
+  </node>
+  <node lon="-122.32907286488145" lat="47.663807683228995" id="-706">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.3290739217814" lat="47.6637802688701" id="-707">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.3290797093049" lat="47.66363014941442" id="-708">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.32906954918327" lat="47.663490167494984" id="-709">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.06"/>
+  </node>
+  <node lon="-122.32890506247924" lat="47.6632090955614" id="-710">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.43"/>
+  </node>
+  <node lon="-122.32887135672472" lat="47.66320898229647" id="-711">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.3325428189325" lat="47.66377771881893" id="-712">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.15"/>
+  </node>
+  <node lon="-122.32886959850909" lat="47.663208976388155" id="-713">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.84"/>
+  </node>
+  <node lon="-122.33254293030875" lat="47.663755804860585" id="-714">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.57"/>
+  </node>
+  <node lon="-122.33254299787758" lat="47.66374251028263" id="-715">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.99"/>
+  </node>
+  <node lon="-122.32887283875117" lat="47.663208987276676" id="-716">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.6"/>
+  </node>
+  <node lon="-122.33360365500108" lat="47.6626300194224" id="-717">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.32896677716887" lat="47.66311657071852" id="-718">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.16"/>
+  </node>
+  <node lon="-122.32896724643427" lat="47.66306696266241" id="-719">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.02"/>
+  </node>
+  <node lon="-122.3336036818619" lat="47.66263001960387" id="-720">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.6899999999999999"/>
+  </node>
+  <node lon="-122.33359398564251" lat="47.662629954099934" id="-721">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.32896745075166" lat="47.663045363395426" id="-722">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.23"/>
+  </node>
+  <node lon="-122.33360311383682" lat="47.66263001576651" id="-723">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.32896773573171" lat="47.66301523693381" id="-724">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.32896791701641" lat="47.662996072550875" id="-725">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.32896805254094" lat="47.6629817456713" id="-726">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.77"/>
+  </node>
+  <node lon="-122.32896829237119" lat="47.66295639218914" id="-727">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.77"/>
+  </node>
+  <node lon="-122.32843363609892" lat="47.66261615916876" id="-728">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="2.44"/>
+  </node>
+  <node lon="-122.32825925112229" lat="47.66285265647695" id="-729">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.32825408757253" lat="47.66309489252955" id="-730">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.3333961" lat="47.6613661" id="-731">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-732">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.23"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-733">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.04"/>
+  </node>
+  <node lon="-122.32825378792407" lat="47.66348721558046" id="-734">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.3282556554966" lat="47.66373794772485" id="-735">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.53"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-736">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.32825695687734" lat="47.663912665426686" id="-737">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.02"/>
+  </node>
+  <node lon="-122.32825709625486" lat="47.66393137764479" id="-738">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-739">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-740">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.3282589665416" lat="47.66418247418595" id="-741">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.72"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-742">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-743">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.32826148429119" lat="47.66452049626683" id="-744">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.82"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-745">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.49"/>
+  </node>
+  <node lon="-122.32826168686218" lat="47.664547692564" id="-746">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-747">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.06"/>
+  </node>
+  <node lon="-122.328263997224" lat="47.66485787166715" id="-748">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.32826373497726" lat="47.6648226635634" id="-749">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.49"/>
+  </node>
+  <node lon="-122.32826356104393" lat="47.66479931203206" id="-750">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.68"/>
+  </node>
+  <node lon="-122.32826290799292" lat="47.66471163625197" id="-751">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="3.12"/>
+  </node>
+  <node lon="-122.32826252435507" lat="47.66466013070667" id="-752">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.28"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-753">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.17"/>
+  </node>
+  <node lon="-122.32826239548" lat="47.66464282850136" id="-754">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.3337192" lat="47.6626308" id="-755">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.32826144223358" lat="47.66451484979675" id="-756">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.73"/>
+  </node>
+  <node lon="-122.32826136187624" lat="47.66450406136911" id="-757">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.64"/>
+  </node>
+  <node lon="-122.32826131314097" lat="47.66449751838426" id="-758">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.78"/>
+  </node>
+  <node lon="-122.3282612193184" lat="47.66448492217585" id="-759">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.32826092589833" lat="47.6644455288772" id="-760">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3282595669709" lat="47.664263085206414" id="-761">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.32825282541144" lat="47.66315410391255" id="-762">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.29"/>
+  </node>
+  <node lon="-122.3282532170848" lat="47.66313572945849" id="-763">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.32825967743979" lat="47.66283265677275" id="-764">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5"/>
+  </node>
+  <node lon="-122.32826053613739" lat="47.66279237295135" id="-765">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.98"/>
+  </node>
+  <node lon="-122.32900482143991" lat="47.658828453453204" id="-766">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.43"/>
+  </node>
+  <node lon="-122.32900612126086" lat="47.65873088356008" id="-767">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.32900700105495" lat="47.65866484260629" id="-768">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.47"/>
+  </node>
+  <node lon="-122.32901180660552" lat="47.6583041182646" id="-769">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.77"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-770">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.32912471370511" lat="47.65556013888758" id="-771">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.91"/>
+  </node>
+  <node lon="-122.32895067695854" lat="47.655558905254416" id="-772">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.32894685644325" lat="47.65668929404191" id="-773">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.48"/>
+  </node>
+  <node lon="-122.3291231346899" lat="47.65556012764904" id="-774">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.32894932020734" lat="47.65668928355143" id="-775">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.95"/>
+  </node>
+  <node lon="-122.32913373895958" lat="47.65556020312427" id="-776">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.92"/>
+  </node>
+  <node lon="-122.32913673875426" lat="47.65556022447512" id="-777">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.11"/>
+  </node>
+  <node lon="-122.32894876077474" lat="47.65668928593344" id="-778">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.74"/>
+  </node>
+  <node lon="-122.32974776416651" lat="47.65669490863197" id="-779">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.32981670579667" lat="47.656695493422816" id="-780">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.33"/>
+  </node>
+  <node lon="-122.32886230116306" lat="47.65555828079556" id="-781">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.18"/>
+  </node>
+  <node lon="-122.32879925419711" lat="47.655557835308926" id="-782">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.32828722840893" lat="47.655554217360894" id="-783">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.3281509359559" lat="47.65555325432539" id="-784">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.75"/>
+  </node>
+  <node lon="-122.3281595405079" lat="47.65555331512472" id="-785">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.84"/>
+  </node>
+  <node lon="-122.32824931443248" lat="47.65555394946268" id="-786">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.61"/>
+  </node>
+  <node lon="-122.32843371101747" lat="47.655555252399516" id="-787">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.51"/>
+  </node>
+  <node lon="-122.32855543763915" lat="47.6555561125136" id="-788">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.32858704083316" lat="47.65555633582015" id="-789">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.42"/>
+  </node>
+  <node lon="-122.3286423384851" lat="47.65555672655053" id="-790">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.03"/>
+  </node>
+  <node lon="-122.32868505419032" lat="47.65555702837752" id="-791">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.95"/>
+  </node>
+  <node lon="-122.32873285474331" lat="47.655557366133785" id="-792">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.4"/>
+  </node>
+  <node lon="-122.32878121195041" lat="47.655557707823334" id="-793">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.85"/>
+  </node>
+  <node lon="-122.32885135170417" lat="47.65555820342725" id="-794">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.9"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-795">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.59"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-796">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-797">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.74"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-798">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-799">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.77"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-800">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.57"/>
+  </node>
+  <node lon="-122.3267779" lat="47.6576925" id="-801">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.63"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-802">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.44"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-803">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.92"/>
+  </node>
+  <node lon="-122.3290559" lat="47.6649974" id="-804">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.88"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-805">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.65"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-806">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.66"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-807">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.7"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-808">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.05"/>
+  </node>
+  <node lon="-122.3296374" lat="47.6650015" id="-809">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.14"/>
+  </node>
+  <node lon="-122.32862533689529" lat="47.69585324952961" id="-810">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.01"/>
+  </node>
+  <node lon="-122.32862202975052" lat="47.69505451354719" id="-811">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.85"/>
+  </node>
+  <node lon="-122.32862245385998" lat="47.69517069282541" id="-812">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.09"/>
+  </node>
+  <node lon="-122.32862338771398" lat="47.69542650999583" id="-813">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.5600000000000001"/>
+  </node>
+  <node lon="-122.32862151019904" lat="47.694912189170964" id="-814">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.87"/>
+  </node>
+  <node lon="-122.32862132933218" lat="47.694862643045774" id="-815">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.32862112735404" lat="47.69480731375803" id="-816">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="2.08"/>
+  </node>
+  <node lon="-122.32862097726897" lat="47.69476619990083" id="-817">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.76"/>
+  </node>
+  <node lon="-122.3286205970923" lat="47.69466205544077" id="-818">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.78"/>
+  </node>
+  <node lon="-122.3286193058161" lat="47.69430832710595" id="-819">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.59"/>
+  </node>
+  <node lon="-122.32830001022215" lat="47.6909393606895" id="-820">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.64"/>
+  </node>
+  <node lon="-122.32842263170203" lat="47.691298521440594" id="-821">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="1.05"/>
+  </node>
+  <node lon="-122.32844275543204" lat="47.69137948948909" id="-822">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.48"/>
+  </node>
+  <node lon="-122.32851029911733" lat="47.69165125224794" id="-823">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.98"/>
+  </node>
+  <node lon="-122.328579333186" lat="47.69205220287963" id="-824">
+    <tag k="TestTarget" v="1"/>
+    <tag k="displacement" v="0.84"/>
+  </node>
+  <node lon="-122.32860232815395" lat="47.69221276477845" id="-825">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.8"/>
+  </node>
+  <node lon="-122.32861389823996" lat="47.69282699187844" id="-826">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+  <node lon="-122.32861599340309" lat="47.69340093459649" id="-827">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.58"/>
+  </node>
+  <node lon="-122.32861683539296" lat="47.69363158678038" id="-828">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="1.7"/>
+  </node>
+  <node lon="-122.32861776266478" lat="47.69388560084902" id="-829">
+    <tag k="TestTarget" v="2"/>
+    <tag k="displacement" v="0.86"/>
+  </node>
+</osm>
